@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyModels\\UdemyModels.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyModels\\UdemyModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyModels\\UdemyModels.csproj",
+        "projectName": "UdemyModels",
+        "projectPath": "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyModels\\UdemyModels.csproj",
+        "packagesPath": "C:\\Users\\chandan.jena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chandan.jena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyUtility\\UdemyUtility.csproj": {
+                "projectPath": "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyUtility\\UdemyUtility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.423\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyUtility\\UdemyUtility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyUtility\\UdemyUtility.csproj",
+        "projectName": "UdemyUtility",
+        "projectPath": "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyUtility\\UdemyUtility.csproj",
+        "packagesPath": "C:\\Users\\chandan.jena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chandan.jena\\Desktop\\Udemy Project\\UdemyUtility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chandan.jena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.423\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

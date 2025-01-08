@@ -1,0 +1,15 @@
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\bin\Debug\net6.0\UdemyModels.deps.json
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\bin\Debug\net6.0\UdemyModels.dll
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\bin\Debug\net6.0\UdemyModels.pdb
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\bin\Debug\net6.0\UdemyUtility.dll
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\bin\Debug\net6.0\UdemyUtility.pdb
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\UdemyModels.csproj.AssemblyReference.cache
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\UdemyModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\UdemyModels.AssemblyInfoInputs.cache
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\UdemyModels.AssemblyInfo.cs
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\UdemyModels.csproj.CoreCompileInputs.cache
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\UdemyModels.csproj.CopyComplete
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\UdemyModels.dll
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\refint\UdemyModels.dll
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\UdemyModels.pdb
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyModels\obj\Debug\net6.0\ref\UdemyModels.dll

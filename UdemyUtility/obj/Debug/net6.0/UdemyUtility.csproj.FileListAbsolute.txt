@@ -1,0 +1,12 @@
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\bin\Debug\net6.0\UdemyUtility.deps.json
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\bin\Debug\net6.0\UdemyUtility.dll
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\bin\Debug\net6.0\UdemyUtility.pdb
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\obj\Debug\net6.0\UdemyUtility.csproj.AssemblyReference.cache
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\obj\Debug\net6.0\UdemyUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\obj\Debug\net6.0\UdemyUtility.AssemblyInfoInputs.cache
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\obj\Debug\net6.0\UdemyUtility.AssemblyInfo.cs
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\obj\Debug\net6.0\UdemyUtility.csproj.CoreCompileInputs.cache
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\obj\Debug\net6.0\UdemyUtility.dll
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\obj\Debug\net6.0\refint\UdemyUtility.dll
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\obj\Debug\net6.0\UdemyUtility.pdb
+C:\Users\chandan.jena\Desktop\Udemy Project\UdemyUtility\obj\Debug\net6.0\ref\UdemyUtility.dll
